@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @MrKuBu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-MrKuBu/MrKuBu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in success and money :P
+- 🌱 I’m currently learning in-depth C++ code.
+- 💞️ I’m looking to collaborate on game developers, 3D modelers, musicians and game animators.
+- 📫 How to reach me MrKuBu122333@gmail.com

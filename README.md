@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MrKuBu
-- 👀 I’m interested in success and money :P
-- 🌱 I’m currently learning in-depth C++ code.
-- 💞️ I’m looking to collaborate on game developers, 3D modelers, musicians and game animators.
-- 📫 How to reach me MrKuBu122333@gmail.com
+- 😎 I’m game and web developer and currently learning in-depth C++.
+- 💬 I’m looking to collaborate on game developers, 3D modelers, musicians and game animators.
+- 🤑 I’m interested in success and money

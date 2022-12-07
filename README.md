@@ -1,4 +1,4 @@
-# Hey <img src="https://i.imgur.com/QKMsNDN.gif" width="29px">, I'm [MrKuBu](https://http://mrkubu.github.io/) 
+# Hey <img src="https://i.imgur.com/QKMsNDN.gif" width="29px">, I'm [MrKuBu](https://mrkubu.github.io/) 
 <br>
 
 <img src="https://mrkubu.github.io/files/Icons/avatar.png" width="180px"><img>

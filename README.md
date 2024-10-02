@@ -1,13 +1,21 @@
 # Hey <img src="https://i.imgur.com/QKMsNDN.gif" width="29px">, I'm [MrKuBu](https://mrkubu.github.io/) 
-<br>
 
-<img src="https://mrkubu.github.io/files/Icons/avatar.png" width="180px"><img>
-# MrKuBu - official github account!
-### 😎 I’m game and web developer and currently learning in-depth C++.
-### 💬 I’m looking to collaborate on game developers, 3D modelers, musicians and game animators.
-### 🤑 I’m interested in success and money
+### I am engaged in the development of games, assets, plugins and 3D models. I have extensive experience in this area. Currently working on character models and games.
+
+### Contact me:
+#### Email: mrkubu122333@gmail.com
+#### Telegram: @MrKuBu
+
+# Links:
 
 <br/>
+<a href="https://www.awesomiumtm.com/">
+  <img align="left" width="64px" src="https://i.imgur.com/w3a3pwG.png"  />
+</a>
+
+<a href="https://www.artstation.com/mrkubu">
+  <img align="left" width="64px" src="https://i.imgur.com/mLZ5mtl.png"  />
+</a>
 
 <a href="https://github.com/mrkubu">
   <img align="left" width="64px" src="https://i.imgur.com/0OmrxrG.png"  />
